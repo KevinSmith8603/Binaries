@@ -1,0 +1,2 @@
+rundll32.exe PowerShdll.dll,main
+Write-Host "Hello, World!"
